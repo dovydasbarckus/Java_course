@@ -1,5 +1,4 @@
 package ThreadTesting;
-import javax.swing.Icon;
 
 public class MyThread extends Thread{
 
